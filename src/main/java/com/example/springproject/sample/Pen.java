@@ -9,6 +9,7 @@ public class Pen {
     }
 
     public void exam() {
+        System.out.println("GitHub");
         System.out.println("exam written by pen");
     }
 }
