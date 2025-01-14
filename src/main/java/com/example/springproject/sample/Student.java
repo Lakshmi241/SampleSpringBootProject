@@ -32,5 +32,6 @@ public class Student {
 
     public void display() {
         System.out.println("student method");
+        System.out.println("Student new ");
     }
 }
